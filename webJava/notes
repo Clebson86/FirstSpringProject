@@ -1,0 +1,27 @@
+
+Spring Boot iniciantes
+
+Desenvolver um projeto "Hello World" com Spring Boot
+
+    - Criar uma Homepage
+    - Criar o Spring MVC controller(com Thymeleaf template)
+    - Rodar o teste JUnit
+    - Criar um Rest Controller
+    - Iniciar a aplicação
+    - Utilizar o Spring Boot DevTools (auto restart + browser refresh)
+
+Base do projeto criado e baixado no Spring initializr,
+com as dependências:
+
+spring-boot-starter-web;
+spring-boot-starter-thymeleaf;
+spring-boot-devtools.
+
+Importado como .Zip para o NetBeans
+
+Inicializar o Spring pelo CMD:
+
+- Comandos                 ||                 - Descrição
+prompt @$f                                (dentro da pasta que contém o .jar)
+java - jar webJava-0.0.1-SNAPSHOT.jar     (Nome do arquivo .jar)
+
